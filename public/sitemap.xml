@@ -3,16 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ntucyclub.netlify.app/</loc>
-    <priority>0</priority>
+    <loc>https://ntucyclub.netlify.app/events/20210313-%E4%B8%89%E5%B3%BD/</loc>
+    <lastmod>2021-03-10T01:07:00+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ntucyclub.netlify.app/categories/</loc>
+    <loc>https://ntucyclub.netlify.app/events/</loc>
+    <lastmod>2021-03-10T01:07:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://ntucyclub.netlify.app/tags/</loc>
+    <lastmod>2021-03-10T01:07:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ntucyclub.netlify.app/</loc>
+    <lastmod>2021-03-10T01:07:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ntucyclub.netlify.app/tags/%E9%80%B1%E6%9C%AB%E6%B4%BB%E5%8B%95/</loc>
+    <lastmod>2021-03-10T01:07:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ntucyclub.netlify.app/posts/first-post/</loc>
+    <lastmod>2021-03-10T00:00:40+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ntucyclub.netlify.app/posts/</loc>
+    <lastmod>2021-03-10T00:00:40+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ntucyclub.netlify.app/members/</loc>
+    <lastmod>2021-03-09T23:53:49+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ntucyclub.netlify.app/about/</loc>
+    <lastmod>2021-03-09T22:15:45+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ntucyclub.netlify.app/categories/</loc>
   </url>
   
 </urlset>

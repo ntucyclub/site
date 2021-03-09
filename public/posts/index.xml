@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 台大單車社</title>
+    <link>https://ntucyclub.netlify.app/posts/</link>
+    <description>Recent content in Posts on 台大單車社</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-TW</language>
+    <lastBuildDate>Wed, 10 Mar 2021 00:00:40 +0800</lastBuildDate>
+    
+	<atom:link href="https://ntucyclub.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Post</title>
+      <link>https://ntucyclub.netlify.app/posts/first-post/</link>
+      <pubDate>Wed, 10 Mar 2021 00:00:40 +0800</pubDate>
+      
+      <guid>https://ntucyclub.netlify.app/posts/first-post/</guid>
+      <description>讚讚</description>
+    </item>
+    
+  </channel>
+</rss>

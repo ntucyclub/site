@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>台大單車社</title>
-    <link>https://ntucyclub.netlify.app/</link>
-    <description>Recent content on 台大單車社</description>
+    <title>Events on 台大單車社</title>
+    <link>https://ntucyclub.netlify.app/events/</link>
+    <description>Recent content in Events on 台大單車社</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
     <lastBuildDate>Wed, 10 Mar 2021 01:07:00 +0800</lastBuildDate>
     
-	<atom:link href="https://ntucyclub.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ntucyclub.netlify.app/events/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -37,15 +37,6 @@ https://www.facebook.com/ntucyc/posts/1988235027985831
 https://forms.gle/qmBdm18xee79piQN6
 臉書社團連結，請確實回答問題讓我們知道你不是假帳號
 https://www.facebook.com/groups/NTUCYCLUB</description>
-    </item>
-    
-    <item>
-      <title>First Post</title>
-      <link>https://ntucyclub.netlify.app/posts/first-post/</link>
-      <pubDate>Wed, 10 Mar 2021 00:00:40 +0800</pubDate>
-      
-      <guid>https://ntucyclub.netlify.app/posts/first-post/</guid>
-      <description>讚讚</description>
     </item>
     
   </channel>
