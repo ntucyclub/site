@@ -5,6 +5,10 @@
     <link>https://ntucyclub.netlify.app/tags/</link>
     <description>Recent content in Tags on 台大單車社</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-TW</language><atom:link href="https://ntucyclub.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-TW</language>
+    
+	<atom:link href="https://ntucyclub.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
   </channel>
 </rss>
